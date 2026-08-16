@@ -1,0 +1,3 @@
+[console_scripts]
+drone_node = swarm_sim.drone_node:main
+drone_node_multi = swarm_sim.drone_node_multi:main
