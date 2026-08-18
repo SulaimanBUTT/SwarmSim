@@ -1,0 +1,221 @@
+[0.000000] (-) TimerEvent: {}
+[0.001216] (swarm_sim) JobQueued: {'identifier': 'swarm_sim', 'dependencies': OrderedDict()}
+[0.011972] (swarm_sim) JobStarted: {'identifier': 'swarm_sim'}
+[0.101110] (-) TimerEvent: {}
+[0.202708] (-) TimerEvent: {}
+[0.303730] (-) TimerEvent: {}
+[0.406974] (-) TimerEvent: {}
+[0.509734] (-) TimerEvent: {}
+[0.613341] (-) TimerEvent: {}
+[0.717005] (-) TimerEvent: {}
+[0.819470] (-) TimerEvent: {}
+[0.939738] (-) TimerEvent: {}
+[1.099476] (-) TimerEvent: {}
+[1.200869] (-) TimerEvent: {}
+[1.304396] (-) TimerEvent: {}
+[1.409849] (-) TimerEvent: {}
+[1.512340] (-) TimerEvent: {}
+[1.614083] (-) TimerEvent: {}
+[1.716070] (-) TimerEvent: {}
+[1.819364] (-) TimerEvent: {}
+[1.920271] (-) TimerEvent: {}
+[2.024791] (-) TimerEvent: {}
+[2.125923] (-) TimerEvent: {}
+[2.227084] (-) TimerEvent: {}
+[2.329846] (-) TimerEvent: {}
+[2.430552] (-) TimerEvent: {}
+[2.531212] (-) TimerEvent: {}
+[2.646637] (-) TimerEvent: {}
+[2.747262] (-) TimerEvent: {}
+[2.877513] (-) TimerEvent: {}
+[2.978190] (-) TimerEvent: {}
+[3.079579] (-) TimerEvent: {}
+[3.180822] (-) TimerEvent: {}
+[3.286361] (-) TimerEvent: {}
+[3.396191] (-) TimerEvent: {}
+[3.510733] (-) TimerEvent: {}
+[3.627668] (-) TimerEvent: {}
+[3.737898] (-) TimerEvent: {}
+[3.850497] (-) TimerEvent: {}
+[3.961053] (-) TimerEvent: {}
+[4.067287] (-) TimerEvent: {}
+[4.168731] (-) TimerEvent: {}
+[4.280207] (-) TimerEvent: {}
+[4.389557] (-) TimerEvent: {}
+[4.492714] (-) TimerEvent: {}
+[4.610498] (-) TimerEvent: {}
+[4.711341] (-) TimerEvent: {}
+[4.820204] (-) TimerEvent: {}
+[4.925324] (-) TimerEvent: {}
+[5.030490] (-) TimerEvent: {}
+[5.131879] (-) TimerEvent: {}
+[5.254215] (-) TimerEvent: {}
+[5.383947] (-) TimerEvent: {}
+[5.519964] (-) TimerEvent: {}
+[5.752876] (-) TimerEvent: {}
+[5.870947] (-) TimerEvent: {}
+[6.003004] (-) TimerEvent: {}
+[6.118405] (-) TimerEvent: {}
+[6.263581] (-) TimerEvent: {}
+[6.397175] (-) TimerEvent: {}
+[6.537191] (-) TimerEvent: {}
+[6.654395] (-) TimerEvent: {}
+[7.002880] (-) TimerEvent: {}
+[7.165812] (-) TimerEvent: {}
+[7.718902] (-) TimerEvent: {}
+[7.869983] (-) TimerEvent: {}
+[7.974499] (-) TimerEvent: {}
+[8.173429] (-) TimerEvent: {}
+[8.327590] (-) TimerEvent: {}
+[8.433117] (-) TimerEvent: {}
+[8.635790] (-) TimerEvent: {}
+[8.747056] (-) TimerEvent: {}
+[8.993127] (-) TimerEvent: {}
+[9.250817] (-) TimerEvent: {}
+[9.386374] (-) TimerEvent: {}
+[9.552733] (-) TimerEvent: {}
+[9.669167] (-) TimerEvent: {}
+[9.930217] (-) TimerEvent: {}
+[10.036160] (-) TimerEvent: {}
+[10.165359] (-) TimerEvent: {}
+[10.354095] (-) TimerEvent: {}
+[10.472767] (-) TimerEvent: {}
+[10.580997] (-) TimerEvent: {}
+[10.682427] (-) TimerEvent: {}
+[10.795529] (-) TimerEvent: {}
+[10.896898] (-) TimerEvent: {}
+[11.000541] (-) TimerEvent: {}
+[11.220305] (-) TimerEvent: {}
+[11.322309] (-) TimerEvent: {}
+[11.423455] (-) TimerEvent: {}
+[11.534222] (-) TimerEvent: {}
+[11.637706] (-) TimerEvent: {}
+[11.739208] (-) TimerEvent: {}
+[11.843824] (-) TimerEvent: {}
+[11.945978] (-) TimerEvent: {}
+[12.050928] (-) TimerEvent: {}
+[12.152165] (-) TimerEvent: {}
+[12.254979] (-) TimerEvent: {}
+[12.360033] (-) TimerEvent: {}
+[12.461750] (-) TimerEvent: {}
+[12.564919] (-) TimerEvent: {}
+[12.671992] (-) TimerEvent: {}
+[12.776015] (-) TimerEvent: {}
+[12.881509] (-) TimerEvent: {}
+[12.984451] (-) TimerEvent: {}
+[13.086013] (-) TimerEvent: {}
+[13.191195] (-) TimerEvent: {}
+[13.294944] (-) TimerEvent: {}
+[13.400995] (-) TimerEvent: {}
+[13.516239] (-) TimerEvent: {}
+[13.618662] (-) TimerEvent: {}
+[13.720896] (-) TimerEvent: {}
+[13.822520] (-) TimerEvent: {}
+[13.948884] (-) TimerEvent: {}
+[14.050653] (-) TimerEvent: {}
+[14.152970] (-) TimerEvent: {}
+[14.254431] (-) TimerEvent: {}
+[14.355869] (-) TimerEvent: {}
+[14.460260] (-) TimerEvent: {}
+[14.562606] (-) TimerEvent: {}
+[14.667255] (-) TimerEvent: {}
+[14.771951] (-) TimerEvent: {}
+[14.874297] (-) TimerEvent: {}
+[14.976607] (-) TimerEvent: {}
+[15.083334] (-) TimerEvent: {}
+[15.186611] (-) TimerEvent: {}
+[15.288734] (-) TimerEvent: {}
+[15.392562] (-) TimerEvent: {}
+[15.494229] (-) TimerEvent: {}
+[15.600770] (-) TimerEvent: {}
+[15.706035] (-) TimerEvent: {}
+[15.806964] (-) TimerEvent: {}
+[15.913480] (-) TimerEvent: {}
+[16.014847] (-) TimerEvent: {}
+[16.116138] (-) TimerEvent: {}
+[16.218135] (-) TimerEvent: {}
+[16.323257] (-) TimerEvent: {}
+[16.424669] (-) TimerEvent: {}
+[16.525601] (-) TimerEvent: {}
+[16.628271] (-) TimerEvent: {}
+[16.727383] (swarm_sim) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/swarm_sim', 'build', '--build-base', '/home/butt/swarm_sim_ws/build/swarm_sim/build', 'install', '--record', '/home/butt/swarm_sim_ws/build/swarm_sim/install.log', '--install-scripts', '$base/lib/swarm_sim', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/butt/swarm_sim_ws/src/swarm_sim', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'GZ_SIM_RESOURCE_PATH': '/opt/ros/lyrical/share', 'USER': 'butt', 'GZ_CONFIG_PATH': '/opt/ros/lyrical/opt/gz_sim_vendor/share/gz:/opt/ros/lyrical/opt/gz_gui_vendor/share/gz:/opt/ros/lyrical/opt/gz_transport_vendor/share/gz:/opt/ros/lyrical/opt/sdformat_vendor/share/gz:/opt/ros/lyrical/opt/gz_rendering_vendor/share/gz:/opt/ros/lyrical/opt/gz_plugin_vendor/share/gz:/opt/ros/lyrical/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/lyrical/opt/gz_msgs_vendor/share/gz:/opt/ros/lyrical/opt/gz_common_vendor/share/gz', 'XDG_SESSION_TYPE': 'wayland', 'PTYXIS_VERSION': '50.1', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/lyrical/opt/gz_sim_vendor/lib:/opt/ros/lyrical/opt/gz_sensors_vendor/lib:/opt/ros/lyrical/opt/gz_gui_vendor/lib:/opt/ros/lyrical/opt/gz_transport_vendor/lib:/opt/ros/lyrical/opt/zenoh_cpp_vendor/lib:/opt/ros/lyrical/opt/gz_physics_vendor/lib:/opt/ros/lyrical/opt/sdformat_vendor/lib:/opt/ros/lyrical/opt/gz_rendering_vendor/lib:/opt/ros/lyrical/opt/gz_plugin_vendor/lib:/opt/ros/lyrical/opt/gz_fuel_tools_vendor/lib:/opt/ros/lyrical/opt/gz_msgs_vendor/lib:/opt/ros/lyrical/opt/gz_common_vendor/lib:/opt/ros/lyrical/opt/gz_math_vendor/lib:/opt/ros/lyrical/opt/gz_utils_vendor/lib:/opt/ros/lyrical/opt/rviz_ogre_vendor/lib:/opt/ros/lyrical/lib/x86_64-linux-gnu:/opt/ros/lyrical/opt/gz_tools_vendor/lib:/opt/ros/lyrical/opt/gz_ogre_next_vendor/lib:/opt/ros/lyrical/opt/gz_dartsim_vendor/lib:/opt/ros/lyrical/opt/gz_cmake_vendor/lib:/opt/ros/lyrical/lib', 'HOME': '/home/butt', 'DESKTOP_SESSION': 'ubuntu', 'IM_CONFIG_ENTRY': 'profile', 'ROS_PYTHON_VERSION': '3', 'GTK_MODULES': 'gail:atk-bridge', 'MANAGERPID': '3337', 'DBUS_STARTER_BUS_TYPE': 'session', 'SYSTEMD_EXEC_PID': '3367', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=27e07f791fe5b4c8150fc1a66a82ee89', 'COLORTERM': 'truecolor', 'DEBUGINFOD_URLS': 'https://debuginfod.ubuntu.com', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/butt/Documents/ros2_ws/install', 'ROS_DISTRO': 'lyrical', 'LOGNAME': 'butt', 'MANAGERPIDFDID': '25096', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/dbus.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'butt', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'FLATPAK_TTY_PROGRESS': '1', 'PATH': '/opt/ros/lyrical/opt/gz_msgs_vendor/bin:/opt/ros/lyrical/opt/gz_tools_vendor/bin:/opt/ros/lyrical/opt/gz_ogre_next_vendor/bin:/opt/ros/lyrical/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'INVOCATION_ID': '23de5fc137954b4c994a9954f142104f', 'XDG_MENU_PREFIX': 'gnome-', 'PTYXIS_PROFILE': 'e3285f524c5baa6acab2123e6a50eddb', 'GNOME_SETUP_DISPLAY': 'unix:/tmp/.X11-unix/X1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.CEACU3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:', 'SSH_AUTH_SOCK': '/run/user/1000/gcr/ssh', 'AMENT_PREFIX_PATH': '/home/butt/Documents/ros2_ws/install/my_first_pack:/opt/ros/lyrical', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/butt/swarm_sim_ws/build/swarm_sim', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=27e07f791fe5b4c8150fc1a66a82ee89', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'XDG_SESSION_EXTRA_DEVICE_ACCESS': 'render:accel', 'PYTHONPATH': '/home/butt/swarm_sim_ws/build/swarm_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages:/home/butt/Documents/ros2_ws/build/my_first_pack:/home/butt/Documents/ros2_ws/install/my_first_pack/lib/python3.14/site-packages:/opt/ros/lyrical/opt/gz_sim_vendor/lib/python:/opt/ros/lyrical/opt/gz_transport_vendor/lib/python:/opt/ros/lyrical/opt/sdformat_vendor/lib/python:/opt/ros/lyrical/opt/gz_msgs_vendor/lib/python:/opt/ros/lyrical/opt/gz_math_vendor/lib/python:/opt/ros/lyrical/lib/python3.14/site-packages', 'COLCON': '1', 'QT_IM_MODULES': 'wayland;ibus', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'VTE_VERSION': '8400', 'CMAKE_PREFIX_PATH': '/opt/ros/lyrical/opt/gz_sim_vendor:/opt/ros/lyrical/opt/gz_sensors_vendor:/opt/ros/lyrical/opt/gz_gui_vendor:/opt/ros/lyrical/opt/gz_transport_vendor:/opt/ros/lyrical/opt/gz_physics_vendor:/opt/ros/lyrical/opt/sdformat_vendor:/opt/ros/lyrical/opt/gz_rendering_vendor:/opt/ros/lyrical/opt/gz_plugin_vendor:/opt/ros/lyrical/opt/gz_fuel_tools_vendor:/opt/ros/lyrical/opt/gz_msgs_vendor:/opt/ros/lyrical/opt/gz_common_vendor:/opt/ros/lyrical/opt/gz_math_vendor:/opt/ros/lyrical/opt/gz_utils_vendor:/opt/ros/lyrical/opt/gz_tools_vendor:/opt/ros/lyrical/opt/gz_ogre_next_vendor:/opt/ros/lyrical/opt/gz_dartsim_vendor:/opt/ros/lyrical/opt/gz_cmake_vendor'}, 'shell': False}
+[16.770243] (-) TimerEvent: {}
+[16.871403] (-) TimerEvent: {}
+[16.977276] (-) TimerEvent: {}
+[17.078199] (-) TimerEvent: {}
+[17.180802] (-) TimerEvent: {}
+[17.281973] (-) TimerEvent: {}
+[17.386241] (-) TimerEvent: {}
+[17.488737] (-) TimerEvent: {}
+[17.590383] (-) TimerEvent: {}
+[17.693958] (-) TimerEvent: {}
+[17.815318] (-) TimerEvent: {}
+[17.919216] (-) TimerEvent: {}
+[18.022215] (-) TimerEvent: {}
+[18.138279] (-) TimerEvent: {}
+[18.244002] (-) TimerEvent: {}
+[18.347890] (-) TimerEvent: {}
+[18.448952] (-) TimerEvent: {}
+[18.554883] (-) TimerEvent: {}
+[18.657051] (-) TimerEvent: {}
+[18.758819] (-) TimerEvent: {}
+[18.864722] (-) TimerEvent: {}
+[18.968070] (-) TimerEvent: {}
+[19.069696] (-) TimerEvent: {}
+[19.171551] (-) TimerEvent: {}
+[19.272938] (-) TimerEvent: {}
+[19.357223] (swarm_sim) StdoutLine: {'line': b'running egg_info\n'}
+[19.373976] (-) TimerEvent: {}
+[19.441601] (swarm_sim) StdoutLine: {'line': b'writing ../../build/swarm_sim/swarm_sim.egg-info/PKG-INFO\n'}
+[19.471561] (swarm_sim) StdoutLine: {'line': b'writing dependency_links to ../../build/swarm_sim/swarm_sim.egg-info/dependency_links.txt\n'}
+[19.474567] (swarm_sim) StdoutLine: {'line': b'writing entry points to ../../build/swarm_sim/swarm_sim.egg-info/entry_points.txt\n'}
+[19.474936] (-) TimerEvent: {}
+[19.502827] (swarm_sim) StdoutLine: {'line': b'writing requirements to ../../build/swarm_sim/swarm_sim.egg-info/requires.txt\n'}
+[19.504297] (swarm_sim) StdoutLine: {'line': b'writing top-level names to ../../build/swarm_sim/swarm_sim.egg-info/top_level.txt\n'}
+[19.575857] (-) TimerEvent: {}
+[19.677354] (-) TimerEvent: {}
+[19.691078] (swarm_sim) StdoutLine: {'line': b"reading manifest file '../../build/swarm_sim/swarm_sim.egg-info/SOURCES.txt'\n"}
+[19.716836] (swarm_sim) StdoutLine: {'line': b"writing manifest file '../../build/swarm_sim/swarm_sim.egg-info/SOURCES.txt'\n"}
+[19.721262] (swarm_sim) StdoutLine: {'line': b'running build\n'}
+[19.721995] (swarm_sim) StdoutLine: {'line': b'running build_py\n'}
+[19.722182] (swarm_sim) StdoutLine: {'line': b'copying swarm_sim/vision.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim\n'}
+[19.736996] (swarm_sim) StdoutLine: {'line': b'copying swarm_sim/engagement.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim\n'}
+[19.763527] (swarm_sim) StdoutLine: {'line': b'copying swarm_sim/drone_node_multi.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim\n'}
+[19.764284] (swarm_sim) StdoutLine: {'line': b'copying swarm_sim/drone_node.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim\n'}
+[19.778030] (-) TimerEvent: {}
+[19.816361] (swarm_sim) StdoutLine: {'line': b'copying swarm_sim/__init__.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim\n'}
+[19.820158] (swarm_sim) StdoutLine: {'line': b'copying swarm_sim/state_machine.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim\n'}
+[19.855907] (swarm_sim) StdoutLine: {'line': b'copying swarm_sim/detection.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim\n'}
+[19.869276] (swarm_sim) StdoutLine: {'line': b'copying swarm_sim/py.typed -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim\n'}
+[19.870045] (swarm_sim) StdoutLine: {'line': b'running install\n'}
+[19.878470] (-) TimerEvent: {}
+[19.882250] (swarm_sim) StdoutLine: {'line': b'running install_lib\n'}
+[19.959190] (swarm_sim) StdoutLine: {'line': b'running install_data\n'}
+[19.959627] (swarm_sim) StdoutLine: {'line': b'copying resource/swarm_sim -> /home/butt/swarm_sim_ws/install/swarm_sim/share/ament_index/resource_index/packages\n'}
+[19.959745] (swarm_sim) StdoutLine: {'line': b'copying package.xml -> /home/butt/swarm_sim_ws/install/swarm_sim/share/swarm_sim\n'}
+[19.959830] (swarm_sim) StdoutLine: {'line': b'copying urdf/drone.urdf -> /home/butt/swarm_sim_ws/install/swarm_sim/share/swarm_sim/urdf\n'}
+[19.963910] (swarm_sim) StdoutLine: {'line': b'copying worlds/swarm_arena.sdf -> /home/butt/swarm_sim_ws/install/swarm_sim/share/swarm_sim/worlds\n'}
+[19.985077] (-) TimerEvent: {}
+[20.030012] (swarm_sim) StdoutLine: {'line': b'copying launch/swarm.launch.py -> /home/butt/swarm_sim_ws/install/swarm_sim/share/swarm_sim/launch\n'}
+[20.041938] (swarm_sim) StdoutLine: {'line': b'copying launch/single_drone.launch.py -> /home/butt/swarm_sim_ws/install/swarm_sim/share/swarm_sim/launch\n'}
+[20.073800] (swarm_sim) StdoutLine: {'line': b'running install_egg_info\n'}
+[20.133257] (swarm_sim) StdoutLine: {'line': b"removing '/home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages/swarm_sim-0.0.0-py3.14.egg-info' (and everything under it)\n"}
+[20.133809] (-) TimerEvent: {}
+[20.140114] (swarm_sim) StdoutLine: {'line': b'Copying ../../build/swarm_sim/swarm_sim.egg-info to /home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages/swarm_sim-0.0.0-py3.14.egg-info\n'}
+[20.230667] (swarm_sim) StdoutLine: {'line': b'running install_scripts\n'}
+[20.234212] (-) TimerEvent: {}
+[20.341916] (-) TimerEvent: {}
+[20.444320] (-) TimerEvent: {}
+[20.562756] (-) TimerEvent: {}
+[20.667393] (-) TimerEvent: {}
+[20.743284] (swarm_sim) StdoutLine: {'line': b'Installing drone_node script to /home/butt/swarm_sim_ws/install/swarm_sim/lib/swarm_sim\n'}
+[20.744114] (swarm_sim) StdoutLine: {'line': b'Installing drone_node_multi script to /home/butt/swarm_sim_ws/install/swarm_sim/lib/swarm_sim\n'}
+[20.745161] (swarm_sim) StdoutLine: {'line': b"writing list of installed files to '/home/butt/swarm_sim_ws/build/swarm_sim/install.log'\n"}
+[20.767847] (-) TimerEvent: {}
+[20.871274] (-) TimerEvent: {}
+[20.979730] (-) TimerEvent: {}
+[21.084714] (-) TimerEvent: {}
+[21.094045] (swarm_sim) CommandEnded: {'returncode': 0}
+[21.188446] (-) TimerEvent: {}
+[21.247835] (swarm_sim) JobEnded: {'identifier': 'swarm_sim', 'rc': 0}
+[21.263152] (-) EventReactorShutdown: {}

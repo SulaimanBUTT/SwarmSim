@@ -8,6 +8,7 @@ setup.py
 ../../build/swarm_sim/swarm_sim.egg-info/requires.txt
 ../../build/swarm_sim/swarm_sim.egg-info/top_level.txt
 ../../build/swarm_sim/swarm_sim.egg-info/zip-safe
+launch/rviz.launch.py
 launch/single_drone.launch.py
 launch/swarm.launch.py
 resource/swarm_sim
@@ -15,7 +16,11 @@ swarm_sim/__init__.py
 swarm_sim/detection.py
 swarm_sim/drone_node.py
 swarm_sim/drone_node_multi.py
+swarm_sim/engagement.py
 swarm_sim/py.typed
+swarm_sim/state_machine.py
+swarm_sim/tactics.py
+swarm_sim/vision.py
 test/test_copyright.py
 test/test_flake8.py
 test/test_mypy.py

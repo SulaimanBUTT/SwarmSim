@@ -1,0 +1,42 @@
+[3.428s] Invoking command in '/home/butt/swarm_sim_ws/src/swarm_sim': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/butt/swarm_sim_ws/build/swarm_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/swarm_sim build --build-base /home/butt/swarm_sim_ws/build/swarm_sim/build install --record /home/butt/swarm_sim_ws/build/swarm_sim/install.log --install-scripts $base/lib/swarm_sim --single-version-externally-managed install_data
+[4.488s] running egg_info
+[4.563s] writing ../../build/swarm_sim/swarm_sim.egg-info/PKG-INFO
+[4.564s] writing dependency_links to ../../build/swarm_sim/swarm_sim.egg-info/dependency_links.txt
+[4.566s] writing entry points to ../../build/swarm_sim/swarm_sim.egg-info/entry_points.txt
+[4.568s] writing requirements to ../../build/swarm_sim/swarm_sim.egg-info/requires.txt
+[4.569s] writing top-level names to ../../build/swarm_sim/swarm_sim.egg-info/top_level.txt
+[4.745s] reading manifest file '../../build/swarm_sim/swarm_sim.egg-info/SOURCES.txt'
+[4.771s] writing manifest file '../../build/swarm_sim/swarm_sim.egg-info/SOURCES.txt'
+[4.773s] running build
+[4.773s] running build_py
+[4.774s] copying swarm_sim/vision.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim
+[4.775s] copying swarm_sim/engagement.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim
+[4.780s] copying swarm_sim/drone_node_multi.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim
+[4.781s] copying swarm_sim/drone_node.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim
+[4.781s] copying swarm_sim/__init__.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim
+[4.781s] copying swarm_sim/state_machine.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim
+[4.783s] copying swarm_sim/detection.py -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim
+[4.786s] copying swarm_sim/py.typed -> /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim
+[4.786s] running install
+[4.797s] running install_lib
+[4.872s] copying /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim/engagement.py -> /home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages/swarm_sim
+[4.872s] copying /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim/drone_node_multi.py -> /home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages/swarm_sim
+[4.873s] copying /home/butt/swarm_sim_ws/build/swarm_sim/build/lib/swarm_sim/state_machine.py -> /home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages/swarm_sim
+[4.879s] byte-compiling /home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages/swarm_sim/engagement.py to engagement.cpython-314.pyc
+[4.880s] byte-compiling /home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages/swarm_sim/drone_node_multi.py to drone_node_multi.cpython-314.pyc
+[4.889s] byte-compiling /home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages/swarm_sim/state_machine.py to state_machine.cpython-314.pyc
+[4.892s] running install_data
+[4.893s] copying resource/swarm_sim -> /home/butt/swarm_sim_ws/install/swarm_sim/share/ament_index/resource_index/packages
+[4.893s] copying package.xml -> /home/butt/swarm_sim_ws/install/swarm_sim/share/swarm_sim
+[4.894s] copying urdf/drone.urdf -> /home/butt/swarm_sim_ws/install/swarm_sim/share/swarm_sim/urdf
+[4.908s] copying worlds/swarm_arena.sdf -> /home/butt/swarm_sim_ws/install/swarm_sim/share/swarm_sim/worlds
+[4.912s] copying launch/swarm.launch.py -> /home/butt/swarm_sim_ws/install/swarm_sim/share/swarm_sim/launch
+[4.916s] copying launch/single_drone.launch.py -> /home/butt/swarm_sim_ws/install/swarm_sim/share/swarm_sim/launch
+[4.916s] running install_egg_info
+[4.995s] removing '/home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages/swarm_sim-0.0.0-py3.14.egg-info' (and everything under it)
+[5.000s] Copying ../../build/swarm_sim/swarm_sim.egg-info to /home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages/swarm_sim-0.0.0-py3.14.egg-info
+[5.011s] running install_scripts
+[5.415s] Installing drone_node script to /home/butt/swarm_sim_ws/install/swarm_sim/lib/swarm_sim
+[5.417s] Installing drone_node_multi script to /home/butt/swarm_sim_ws/install/swarm_sim/lib/swarm_sim
+[5.418s] writing list of installed files to '/home/butt/swarm_sim_ws/build/swarm_sim/install.log'
+[5.548s] Invoked command in '/home/butt/swarm_sim_ws/src/swarm_sim' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/butt/swarm_sim_ws/build/swarm_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/butt/swarm_sim_ws/install/swarm_sim/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/swarm_sim build --build-base /home/butt/swarm_sim_ws/build/swarm_sim/build install --record /home/butt/swarm_sim_ws/build/swarm_sim/install.log --install-scripts $base/lib/swarm_sim --single-version-externally-managed install_data

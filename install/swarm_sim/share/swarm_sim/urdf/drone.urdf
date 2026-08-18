@@ -1,10 +1,18 @@
 <?xml version="1.0"?>
 <robot name="quadcopter_drone">
 
-  <!-- ============================================
-       MAIN BODY (Central Frame)
-       ============================================ -->
-  
+  <!-- Materials -->
+  <material name="blue">
+    <color rgba="0 0 1 1"/>
+  </material>
+  <material name="red">
+    <color rgba="1 0 0 1"/>
+  </material>
+  <material name="black">
+    <color rgba="0.1 0.1 0.1 1"/>
+  </material>
+
+  <!-- Base Link -->
   <link name="base_link">
     <visual>
       <geometry>
@@ -12,23 +20,20 @@
       </geometry>
       <material name="blue"/>
     </visual>
-    
     <collision>
       <geometry>
         <box size="0.33 0.33 0.05"/>
       </geometry>
     </collision>
-    
     <inertial>
       <mass value="1.5"/>
-      <inertia
-        ixx="0.02" ixy="0.0" ixz="0.0"
-        iyy="0.02" iyz="0.0"
-        izz="0.04"/>
+      <inertia ixx="0.02" ixy="0.0" ixz="0.0"
+               iyy="0.02" iyz="0.0"
+               izz="0.04"/>
     </inertial>
   </link>
 
-  <!-- Motor 1: Front-Right -->
+  <!-- Motor 1 -->
   <link name="motor_1">
     <visual>
       <geometry>
@@ -56,7 +61,7 @@
     <axis xyz="0 0 1"/>
   </joint>
 
-  <!-- Motor 2: Front-Left -->
+  <!-- Motor 2 -->
   <link name="motor_2">
     <visual>
       <geometry>
@@ -84,7 +89,7 @@
     <axis xyz="0 0 1"/>
   </joint>
 
-  <!-- Motor 3: Rear-Left -->
+  <!-- Motor 3 -->
   <link name="motor_3">
     <visual>
       <geometry>
@@ -112,7 +117,7 @@
     <axis xyz="0 0 1"/>
   </joint>
 
-  <!-- Motor 4: Rear-Right -->
+  <!-- Motor 4 -->
   <link name="motor_4">
     <visual>
       <geometry>
@@ -140,7 +145,7 @@
     <axis xyz="0 0 1"/>
   </joint>
 
-  <!-- Camera Sensor -->
+  <!-- Camera -->
   <link name="camera_link">
     <visual>
       <geometry>
@@ -167,7 +172,7 @@
     <origin xyz="0.15 0 0.03" rpy="0 0 0"/>
   </joint>
 
-  <!-- IMU Sensor -->
+  <!-- IMU -->
   <link name="imu_link">
     <inertial>
       <mass value="0.01"/>
@@ -182,7 +187,5 @@
     <child link="imu_link"/>
     <origin xyz="0 0 0" rpy="0 0 0"/>
   </joint>
-
-
 
 </robot>
